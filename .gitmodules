@@ -1,6 +1,3 @@
-[submodule "Two-Pointers-1"]
-	path = Two-Pointers-1
-	url = https://github.com/tnagire1/Two-Pointers-1.git
 [submodule "Two-Pointers-2"]
 	path = Two-Pointers-2
 	url = https://github.com/tnagire1/Two-Pointers-2.git
